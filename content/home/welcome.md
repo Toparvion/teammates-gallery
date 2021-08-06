@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Привет! 👋"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,10 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Перед тобой галерея сотрудников Управления Платёжных Карт (УПК) &mdash; одной
+из самых крутых и дружных команд ЦФТ!
+
+Здесь ты можешь заочно познакомиться со своими коллегами и узнать о них много
+интригующих подробностей:wink:
+
+Добро пожаловать! :hugs:
